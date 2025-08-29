@@ -57,5 +57,6 @@ Air pollution is one of the most pressing global environmental challenges, direc
 - Visualizations for easy understanding of pollution patterns  
 
 ## 🙏 Credits
+- Project Mentor: Sir Faisal Amin – SMIT AI & Data Science 2025
 - Dataset Source: [Kaggle](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)  
 - Developed by: **[Owais Nadeem](https://www.github.com/owaisnadeem18)**
